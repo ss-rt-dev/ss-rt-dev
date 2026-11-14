@@ -23,3 +23,8 @@
 ![Die Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ss-rt-dev&theme=dark)
 
 ![Top Sprachen](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ss-rt-dev&theme=dark)
+
+## Coding Zeit
+
+<!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-100%12hrs%2049%10mins-1a1a1a)
