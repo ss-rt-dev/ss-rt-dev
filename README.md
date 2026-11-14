@@ -12,9 +12,11 @@
 - 📫 Standort: **DE/LU**
 - ⚡ Fun fact: **Hab kein Fun Fact**
 
-## Programmiersprachen die ich Behersche zum Tot
+## Meine Lieben Trophäen
 
-![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge) ![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge) ![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge)
+<p align="center">
+  <img src="https://github-trophies.vercel.app/?username=Ayont&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" alt="Trophies"/>
+</p>
 
 ## Meine Stats
 
