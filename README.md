@@ -15,7 +15,7 @@
 ## Meine Lieben Trophäen
 
 <p align="center">
-  <img src="https://github-trophies.vercel.app/?username=Ayont&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" alt="Trophies"/>
+  <img src="https://github-trophies.vercel.app/?username=ss-rt-dev&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" alt="Trophies"/>
 </p>
 
 ## Meine Stats
