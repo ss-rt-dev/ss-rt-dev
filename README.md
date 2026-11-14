@@ -26,4 +26,4 @@
 
 ## Coding Zeit
 
-![Code Time](http://img.shields.io/badge/Code%20Time-100%20hrs%2049%20mins-1a1a1a)
+![Code Time](http://img.shields.io/badge/Code%20Time-100%20hrs%2012%20mins-1a1a1a)
