@@ -26,5 +26,4 @@
 
 ## Coding Zeit
 
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-100%12hrs%2049%10mins-1a1a1a)
+![Code Time](http://img.shields.io/badge/Code%20Time-71%20hrs%2049%20mins-1a1a1a)
