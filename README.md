@@ -2,6 +2,8 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&random=false&width=500&height=45&lines=Am+Viben+und+am+Arbeiten;Frontend+%7C+Backend+%7C+DevOps;Always+Learning+%26+Building" />
 
+[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/intro.gif" alt="👋 Moin oder auch Grüezi, ich bin Cleso)"/>]
+
 # Moin oder Grüezi, I bin der Cleso 👋
 
 
